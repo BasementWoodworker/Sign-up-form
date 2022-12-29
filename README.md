@@ -1,2 +1,2 @@
-# Sign-up-form-exercise
-Sign up form
+# Sign-up-form
+Sign up form (exercise)
